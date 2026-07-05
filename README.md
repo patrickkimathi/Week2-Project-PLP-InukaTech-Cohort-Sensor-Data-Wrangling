@@ -16,19 +16,18 @@ The project compares raw sensor readings with cleaned data to show how preproces
 - Generate descriptive statistics.
 - Visualize raw and cleaned sensor trends.
 - Produce operational insights from the cleaned data.
----
+- 
 ## Dataset
-
 **File:**
 `week2_sensor_readings.csv`
 The dataset contains timestamped sensor pressure readings collected from an industrial production environment.
----
+
 ## Technologies Used
 - Python 3
 - Pandas
 - NumPy
 - Matplotlib
----
+  
 ## Project Workflow
 ### 1. Data Loading
 The sensor dataset is imported into a Pandas DataFrame for analysis.
@@ -39,7 +38,7 @@ The notebook examines:
 - Missing values
 - Duplicate records
 - Summary statistics
-
+-  
 ### 3. Data Cleaning
 The following preprocessing steps are performed:
 - Removal of duplicate records
@@ -73,14 +72,13 @@ Using cleaned sensor data enables plant managers to:
 - Enhance operational reliability.
 - Support data-driven decision-making.
 
----
 ## Output
 The project produces:
 - Cleaned sensor dataset
 - Summary statistics
 - Raw vs. Cleaned Trend chart
 - Week 2 Insight Report (PDF)
----
+- 
 ## How to Run
 1. Install the required libraries:
 ```bash
