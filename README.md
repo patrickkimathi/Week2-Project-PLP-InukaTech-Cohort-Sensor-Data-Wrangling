@@ -88,16 +88,6 @@ pip install pandas numpy matplotlib
 3. Open the Jupyter Notebook.
 4. Run all cells sequentially.
 ---
-## Project Structure
-```
-Week2/
-│
-├── Patrick Kariuki PLP Sensor Data Reading Analysis Week 2.ipynb
-├── week2_sensor_readings.csv
-├── Week2_Insight_Report_Patrick_Kariuki.pdf
-└── README.md
-```
----
 ## Author
 **Patrick Kariuki**
 Inuka Tech PLP Fellowship Data Analysis Program
